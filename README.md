@@ -1,30 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+# `/`
 
-## Getting Started
+<img width="496" alt="Screen Shot 2020-03-10 at 8 41 04 AM" src="https://user-images.githubusercontent.com/992008/76330369-fe61b500-62aa-11ea-8d54-eda028265a02.png">
 
-First, run the development server:
+# `/no-getstaticprops`
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<img width="496" alt="Screen Shot 2020-03-10 at 8 41 04 AM" src="https://user-images.githubusercontent.com/992008/76330369-fe61b500-62aa-11ea-8d54-eda028265a02.png">
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# `/getstaticprops`
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<img width="494" alt="Screen Shot 2020-03-10 at 8 41 14 AM" src="https://user-images.githubusercontent.com/992008/76330361-fdc91e80-62aa-11ea-9664-f9de3d225072.png">
 
-## Learn More
+# `/async-getstaticprops`
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on ZEIT Now
-
-The easiest way to deploy your Next.js app is to use the [ZEIT Now Platform](https://zeit.co/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img width="493" alt="Screen Shot 2020-03-10 at 8 41 21 AM" src="https://user-images.githubusercontent.com/992008/76330354-fbff5b00-62aa-11ea-9d75-50eab4efb62d.png">
